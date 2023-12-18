@@ -1,2 +1,18 @@
-h1{font-size: large;
+h1{font-size: 50px;
 color: aqua;}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline;
+
+  }
+a {
+    display: block;
+    padding: 8px;
+    background-color: rgb(235, 131, 12);
+    display: inline;
+      }
+li{ 
+ display: inline;}
+    
